@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+COS
+</HEAD>
+
+<TITLE>
+All about s taw trr MOE PYAE
+</TITLE>
+
+<BODY>
+<body bgcolor=black>
+<FONT FACE="arial"SIZE="+5"COLOR="red"><B>
+<P ALIGN="CENTER">
+MOE PYAE AUNG
+</FONT>
+</P>
+<a href="moe pyae.jpg">
+<img src="moe pyae.jpg"width=200px height=200px" border=0>
+</a>
+
+</BODY>
+</HTML>
